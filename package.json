@@ -13,6 +13,8 @@
     "astro": "^3.2.4"
   },
   "devDependencies": {
-    "sass": "^1.69.2"
+    "sass": "^1.69.2",
+    "vite-plugin-sass-glob-import": "^2.0.0"
+
   }
 }
